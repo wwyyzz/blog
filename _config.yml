@@ -1,13 +1,14 @@
-title: Hexo
+title: Network-Tech
 subtitle: "A fast, simple & powerful blog framework powered by Node.js."
 description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Tommy Chen
-language: en
+author: wwyyzz
+#language: en
+language: zh-cn
 timezone: UTC
 url: https://hexo.io
 root: /
 permalink: news/:year/:month/:day/:title/
-archive_dir: news
+archive_dir: Blog
 code_dir: downloads/code
 new_post_name: :year-:month-:day-:title.md # File name of new posts
 post_asset_folder: true
@@ -19,9 +20,9 @@ per_page: 0
 theme: navy
 deploy:
   type: git
-  repo: git@github.com:hexojs/hexojs.github.io.git
+  repository: git@github.com:wwyyzz/wwyyzz.github.com.git 
 
-disqus_shortname: hexojs
+#disqus_shortname: hexojs
 google_analytics: UA-4910098-10
 fb_admins: 100000247608790
 swiftype_key: EwN4HMy_KMxTK_GMjV1z

@@ -44,7 +44,10 @@ Wireshark也许是目前最好的开源数据包分析软件。
 图 1.1, “Wireshark 的捕获数据包，可以让您检查他们的内容” 显示Wireshark已经捕获的一些数据包，并等待着您
 
 **图 1.1. Wireshark的捕获数据包，可以让您检查它们的内容。**
-{% asset_img ws-main.png %}
+
+
+{% img /Wireshark/manual_img/ws-main.png %}
+
 
 #### 1.1.3. 在多种网络介质中捕获报文 ####
 

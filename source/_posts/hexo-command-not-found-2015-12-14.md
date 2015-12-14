@@ -13,6 +13,7 @@ Try: sudo apt-get install <selected package>
         v0.12.9
          v5.2.0
 
-2、nvm use 5.2.0hexo@Hexo:~/site$ nvm use 5.2.0
+2、nvm use 5.2.0
+hexo@Hexo:~/site$ nvm use 5.2.0
 Now using node v5.2.0 (npm v3.3.12)
 

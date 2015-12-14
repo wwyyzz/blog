@@ -3,3 +3,7 @@ Wireshark:
     download: download.html
   docs: 
     docs: docs.html
+  manual-cn:
+    Preface: manual-cn-0.html
+    CH1: manual-cn-CH1.html
+    CH2: manual-cn-CH2.html

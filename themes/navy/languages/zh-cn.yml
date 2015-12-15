@@ -1,9 +1,7 @@
 menu:
   Wireshark: Wireshark
   Blog: 博客
-  
   plugins: 插件
-  themes: 主题
   search: 搜索
 
 index:

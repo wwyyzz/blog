@@ -1,1 +1,2 @@
-git push http://github.com/wwyyzz/blog.git/
+git pull git@github.com:wwyyzz/blog.git
+

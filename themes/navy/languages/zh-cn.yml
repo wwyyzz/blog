@@ -18,7 +18,12 @@ page:
 sidebar:
   Wireshark:
     download: 软件下载
+
     docs: 文档
+    manual: 官方手册
+    book: 图书
+    article: 相关文章
+
     manual-cn: 中文用户手册
     Preface: 0.前言
     CH1: 1.介绍 

@@ -1,6 +1,5 @@
 title: Chapter 2. 编译和安装Wireshark
 ---
-
 ### 2.1. 介绍 ###
 
 正如所有的事情必须有一个开始，Wireshark也一样。要使用Wireshark，您必须先安装它。如果您运行的是Windows或Mac OS X，您可以在<https://www.wireshark.org/download.html>下载官方版本并安装， 然后跳过这一章的其余部分。

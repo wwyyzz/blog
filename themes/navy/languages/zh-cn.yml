@@ -27,4 +27,13 @@ sidebar:
     manual-cn: 中文用户手册
     Preface: 0.前言
     CH1: 1.介绍 
-    CH2: 2.编译和安装Wireshark 
+    CH2: 2.编译和安装Wireshark
+    CH3: 3.用户界面
+    CH4: 4.捕获实时网络数据
+    CH5: 5.文件输入、输出和打印
+    CH6: 6.处理捕获数据包
+    CH7: 7.高级主题
+    CH8: 8.统计
+    CH9: 9.电话
+    CH10: 10.定制Wireshark
+

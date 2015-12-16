@@ -1,2 +1,2 @@
-git pull git@github.com:wwyyzz/blog.git
+git push git@github.com:wwyyzz/blog.git
 

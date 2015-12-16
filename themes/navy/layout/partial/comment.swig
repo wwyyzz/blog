@@ -1,18 +1,9 @@
-{% if page.comments && config.disqus_shortname %}
-<section id="comments">
-  <div id="disqus_thread"></div>
-</section>
-<script>
-  var disqus_shortname = '{{ config.disqus_shortname }}';
-  var disqus_url = '{{ url }}';
-  var disqus_title = {{ JSON.stringify(page.title) }};
-  var disqus_config = function(){
-    this.language = '{{ disqus_lang() }}';
-  };
-  (function(){
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = 'https://go.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-{% endif %}
+<!--高速版-->
+<div id="SOHUCS"></div>
+<script charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+    window.changyan.api.config({
+        appid: 'cys95R0o4',
+        conf: 'prod_1faeb971c07024bdd01babb022f7d26e'
+    });
+</script>  

@@ -1,3 +1,10 @@
+widgets:
+  category:
+  archive:
+
+
+
+
 Wireshark:
   download:
     download: download.html

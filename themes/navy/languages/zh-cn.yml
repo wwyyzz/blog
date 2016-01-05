@@ -1,6 +1,8 @@
 menu:
   Wireshark: Wireshark
-  Blog: 博客
+  Hexo: Hexo
+  essay: 随笔
+  archive: 归档
   plugins: 插件
   search: 搜索
 

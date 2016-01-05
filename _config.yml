@@ -22,8 +22,12 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 
-#archive_dir: Blog
-#code_dir: downloads/code
+
+widgets:
+- category
+- tagcloud
+
+
 
 # Writing 文章布局、写作格式的定义
 new_post_name: :title.md             # File name of new posts
@@ -39,11 +43,11 @@ post_asset_folder: true
 highlight:                          #代码高亮
   enable: true                      #是否启用
   line_number: false                #是否显示行号
-per_page: 0
+per_page: 1
 
 
 # Category & Tag                   #分类与标签
-default_category: uncategorized
+default_category: essay
 category_map:
 tag_map:
 
@@ -51,9 +55,9 @@ tag_map:
 ## 2: Enable pagination
 ## 1: Disable pagination
 ## 0: Fully Disable
-archive: 1
-category: 1
-tag: 1
+archive: 0
+category: 0
+tag: 0
 
 # Server #本地服务参数
 ## Hexo uses Connect as a server

@@ -1,4 +1,5 @@
 title: hexo中插入图片
+categories: Hexo
 ---
 ## 方式一
 

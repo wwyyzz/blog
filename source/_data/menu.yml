@@ -1,6 +1,7 @@
 Wireshark: /Wireshark/
 Hexo: /categories/Hexo
+blog: /categories/blog
 
-essay: /categories/essay
+#essay: /essay
 plugins: /plugins/
 archive: /archives

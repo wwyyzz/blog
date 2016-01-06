@@ -1,5 +1,8 @@
 title: 给网站添加了畅言评论
-categories: Hexo
+categories:
+  - Hexo
+tags: []
+date: 2015-12-16 17:10:00
 ---
 
 首先打算用多说评论，但是始终没有成功。后修改为畅言评论。

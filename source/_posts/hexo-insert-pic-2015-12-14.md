@@ -1,5 +1,8 @@
 title: hexo中插入图片
-categories: Hexo
+categories:
+  - Hexo
+tags: []
+date: 2016-01-06 09:32:00
 ---
 ## 方式一
 

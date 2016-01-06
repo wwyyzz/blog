@@ -1,6 +1,9 @@
 title: '解决运行hexo命令时提示hexo: command not found的问题'
-categories: Hexo
+categories:
+  - Hexo
 comments: true
+tags: []
+date: 2016-01-06 09:32:00
 ---
 hexo已经安装正常，重启系统后再执行hexo，出现"hexo: command not found"的提示
 执行 node v 提示：
